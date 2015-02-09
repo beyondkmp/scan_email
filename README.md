@@ -1,4 +1,4 @@
-# scanemail
+# scan_email
 用来扫描邮箱密码
 
 主要是扫描imap,pop3和smtp三个协议
